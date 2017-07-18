@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 1: July 17th 2017
+**Today's Progress**: Realizing that taking time off (especially extended periods of time) is not a good idea. re-learning things that I was so comfortable with back in the winter/fall. I spent my time today working on my tribute page. It's not yet completed, but I made significant progress. 
+
+**Thoughts:** Stuck between a place where I have to re-learn the basics and where I want to move on to JavaScript and more interactive aspects of development. 
+
+**Link to work:** https://codepen.io/kodcx/pen/VjVkAz <!--(http://www.example.com)-->
+
 ### Day 0: July 16th 2017
 ##### <!--(delete me or comment me out)-->
 
