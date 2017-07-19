@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+Day 2: July 18th 2017
+
+Today's Progress: Added a link to the Tribute Page, as that is a requirement for the FCC project. The link opens in a new window, and leads to a page where more information can be obtained. 
+
+Thoughts: Really feel like I hacked this project together, and would like to get better at planning, understanding the interconnectivity of various page elements, and much more.... It's a process. Stay positive. 
+
+Link to work: https://codepen.io/kodcx/pen/VjVkAz
+
 ### Day 1: July 17th 2017
 **Today's Progress**: Realizing that taking time off (especially extended periods of time) is not a good idea. re-learning things that I was so comfortable with back in the winter/fall. I spent my time today working on my tribute page. It's not yet completed, but I made significant progress. 
 
