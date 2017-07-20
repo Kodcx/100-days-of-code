@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 3: July 19th, Wednesday (updating on thursday afternoon as per usual)
+
+**Today's Progress**: Reminded myself of things that I once knew but forgot, but I didn't get anything DONE. Further punishment for not approaching my coding studies in a clear and purposeful way. 
+
+**Thoughts:** I spent 2 hours, gnawing through code of HOW I want my portfolio site to ultimately look. The ide seemed solid before, during, but not after. The thinking was to write code, where I would use css to give different section different colors, so that visually I can see the layout. During this process I ran into some issues, and spent time resolving some, and time not resolving others. When I was done for the night, I looked back and felt proud of reminding myself of some things, but I also felt foolish for wastng this time making a mock up. I felt like I should have just put the real INTENDED code, then wasting time putting "DUMMY" code for visual purposes. 
+
+**Link to work:** https://codepen.io/kodcx/pen/gRNVMK <!-- nothing to see here.... literally -->
+
 
 Day 2: July 18th 2017
 
